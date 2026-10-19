@@ -15,7 +15,7 @@
    Spremembe zabeležite v ukazni vrstici, ne z gumbom _Commit_ v VSCode, sicer sporočil zgodbe ne boste videli.
    Če se ob ukazu `git commit` ni izpisalo nič drugega kot običajno, ste izpustili 2. korak: poženite skripto in `git commit` ponovite.
 8. Odgovor na življenje in sploh vse je 42
-
+9. Zdravo
 
 <!-- inhibit-stiridva -->
 8. Pošljite svoje delo na GitHub z naslednjimi ukazi:
